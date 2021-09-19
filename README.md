@@ -1,4 +1,4 @@
-# EC-601-PROJECT-2
+# EC-601-PROJECT-1
 Photonic chips for Machine learning and implementation it in FPGA boards
 
 PHOTONICS CHIPS IN MACHINE LEARNING AND     
@@ -25,7 +25,7 @@ ONN is formed by a passive optical waveguide that interconnects the natural adva
 4.1 Semiconductor optical amplifier(SOA):
 The idea of SOA, the MAC operation, is realized by single amplifier modules. When the amplifier gets amplified, it enables large-scale MAC operations. This has N*M matric formation multiplication. The FNN based SOA is considered that the variation of the gain coefficient corresponds to the change in transmission. The ring modulator is compact and operates at a sub-voltage level so that it is suitable for high-density and narrow bandwidth applications. In contrast, an Electro absorption modulator (EAM) has a slightly larger footprint and a fair modulation efficiency of up to 16GHz.The Mach-Zehnder modulator (MZM) has higher extensive switch modulation and potential applications as switches and routers inhibiting the future for all-optical communication networks.
  
-                                   Fig.1 Semiconductor Optical Amplifier diagram
+                                   
 
 4.2 Photonic Feedforward Neural Network(PFNN):
 The feedforward neural network is the accessible one-way neural network having input, hidden, and output layers. This transmits unidirectionally from the information to the output layer. PFNN can be realized by the MZI array, SOA, MRR, and 3D waveguide. The MZI array is cascaded without any type of reflection and forwarding propagation. Whereas in SOA, it is operated in large-scale MAC operations. These vast differences make the network quite complex and time-consuming process. The Micro-ring resonator implementation scheme is similar to SOA, but it works with different wavelengths. It can adjust the waveguide when light is incident on the chips in various methods. Arrayed waveguide grating(AWG) is summated with multiple channels.
